@@ -1,1 +1,1 @@
-## Java Spring Batch project with schecduler and PostgreSQL
+## Java Spring Batch project with scheduler and PostgreSQL
